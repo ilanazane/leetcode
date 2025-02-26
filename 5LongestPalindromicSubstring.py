@@ -1,9 +1,3 @@
-"""
-
-
-"""
-
-
 def invert(a_string: str) -> str:
     """
     return a reversed string
